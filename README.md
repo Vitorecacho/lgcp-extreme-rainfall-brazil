@@ -52,11 +52,7 @@ The RW2 precision uses a PC prior with param = c(10, 0.1). Remaining hyperparame
 
 Hardware
 
-[Fill in: machine, cores, memory, whether a cluster was used, approximate runtime per model.]
-
 Citation
-
-[Paper citation once accepted.]
 
 License
 
