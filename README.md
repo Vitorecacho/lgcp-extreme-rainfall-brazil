@@ -1,5 +1,7 @@
 # Extreme Rainfall Occurrence in Brazil — LGCP/SPDE-INLA
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23891518.svg)](https://doi.org/10.5281/zenodo.23891518)
+
 Code and processing pipeline for a Bayesian spatio-temporal analysis of extreme rainfall occurrence over Brazil. Daily CHIRPS precipitation (1981–2026) is used to construct spatio-temporal point patterns of threshold exceedances at 100 mm/day and 200 mm/day. Occurrence intensity is modelled as a Log-Gaussian Cox Process with latent trend, seasonal and autoregressive temporal components and a dynamic spatial field represented through the SPDE approach, with inference performed using INLA.
 
 Two specifications are included: a common-component model, in which the temporal structures are shared across the country, and a regionalized model, in which trend, seasonal and autoregressive components are estimated separately for the five Brazilian macroregions (North, Northeast, Center-West, Southeast, South).
