@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below and this software archive."
+title: "Extreme Rainfall Occurrence in Brazil: LGCP/SPDE-INLA code"
+type: software
+authors:
+  - family-names: Recacho
+    given-names: Vitor Salomão
+    orcid: "https://orcid.org/0000-0001-5452-0405"
+    affiliation: "University of São Paulo (FEA-RP)"
+  - family-names: Laurini
+    given-names: Márcio Poletti
+    affiliation: "University of São Paulo (FEA-RP)"
+version: 1.0.0
+doi: 10.5281/zenodo.23891518
+license: MIT
+repository-code: "https://github.com/Vitorecacho/lgcp-extreme-rainfall-brazil"
+keywords:
+  - extreme rainfall
+  - log-Gaussian Cox process
+  - SPDE
+  - INLA
+  - CHIRPS
+  - Brazil
+preferred-citation:
+  type: article
+  title: "Spatio-temporal modeling of extreme rainfall occurrence in Brazil"
+  authors:
+    - family-names: Recacho
+      given-names: Vitor Salomão
+      orcid: "https://orcid.org/0000-0001-5452-0405"
+    - family-names: Laurini
+      given-names: Márcio Poletti
+  journal: "International Journal of Climatology"
+  doi: 10.1002/joc.70671
